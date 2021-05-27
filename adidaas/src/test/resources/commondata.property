@@ -1,0 +1,29 @@
+CreateModule commondata:
+
+url = https://adidaas-useradm-dev.azurewebsites.net/LogIn/LogUser
+
+email1 = Subasankari.Shanmuga@disys.com
+password1 = Disys@123
+firstname = Karthik
+lastname =  ravi
+startdate = 4/6/2020
+enddate   = 12/1/2021
+comments  = UserApproved
+searchfield3 = Asdsd
+
+====================================================================================================
+
+UserModule commondata:
+
+url = https://adidaas-useradm-dev.azurewebsites.net/LogIn/LogUser
+email2=sathish.rajendren@disys.com
+password2=Disys@123
+searchfield = New Test
+rollname = new test90
+roledescription= new testing modules.
+searchfield1 = Testing Group123
+searchfield2 = Testing Group120
+recipeint= Testing Group138
+grpdescription = approved the testing
+searchbyName = velmurugan
+searchbyName5 = velmurugan
